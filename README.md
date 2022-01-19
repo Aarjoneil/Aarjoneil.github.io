@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, im aarjoneil!
 
-You can use the [editor on GitHub](https://github.com/Aarjoneil/Aarjoneil.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a 14 year old javascript, python, and c++ developer trying to learn stuff for fun!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
