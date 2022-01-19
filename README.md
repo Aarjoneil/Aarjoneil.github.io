@@ -2,8 +2,7 @@
 
 **I'm a 14 year old javascript, python, and c++ developer _trying_ to learn stuff for fun!**
 
-**i make [youtube](https://www.youtube.com/channel/UCFX5fnpSFevm-38n4tRmPHw/videos) videos for fun :D
-**
+**i make [youtube](https://www.youtube.com/channel/UCFX5fnpSFevm-38n4tRmPHw/videos) videos for fun :D**
 
 ## My social media 	:ghost:
 
